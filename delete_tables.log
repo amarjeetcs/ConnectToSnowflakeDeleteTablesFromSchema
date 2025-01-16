@@ -1,0 +1,51 @@
+
+2025-01-14 21:52:57,408 - Snowflake Connector for Python Version: 3.12.4, Python Version: 3.12.3, Platform: Windows-10-10.0.19045-SP0
+2025-01-14 21:52:57,409 - Connecting to GLOBAL Snowflake domain
+2025-01-14 21:52:57,409 - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-14 21:52:57,409 - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-01-14 21:52:58,546 - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-01-14 21:52:58,850 - Successfully connected to Snowflake.
+2025-01-14 21:52:59,660 - Number of results in first chunk: 3
+2025-01-14 21:52:59,663 - Found 3 tables created before 2025-01-15.
+2025-01-14 21:52:59,817 - Number of results in first chunk: 1
+2025-01-14 21:52:59,817 - Successfully deleted table: BIGMARKETSALES
+2025-01-14 21:52:59,986 - Number of results in first chunk: 1
+2025-01-14 21:52:59,987 - Successfully deleted table: SAMPLEDATA
+2025-01-14 21:53:00,133 - Number of results in first chunk: 1
+2025-01-14 21:53:00,134 - Successfully deleted table: QUATERACCOUNTDATA
+2025-01-14 21:53:00,134 - closed
+2025-01-14 21:53:00,184 - No async queries seem to be running, deleting session
+2025-01-14 21:53:00,241 - Completed deleting old tables.
+2025-01-14 21:57:58,948 - Snowflake Connector for Python Version: 3.12.4, Python Version: 3.12.3, Platform: Windows-10-10.0.19045-SP0
+2025-01-14 21:57:58,949 - Connecting to GLOBAL Snowflake domain
+2025-01-14 21:57:58,949 - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-14 21:57:58,949 - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-01-14 21:57:59,928 - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-01-14 21:58:00,268 - Successfully connected to Snowflake.
+2025-01-14 21:58:00,814 - Number of results in first chunk: 0
+2025-01-14 21:58:00,815 - Found 0 tables created before 2025-01-15.
+2025-01-14 21:58:00,816 - closed
+2025-01-14 21:58:00,886 - No async queries seem to be running, deleting session
+2025-01-14 21:58:00,955 - Completed deleting old tables.
+2025-01-14 21:59:11,787 - Snowflake Connector for Python Version: 3.12.4, Python Version: 3.12.3, Platform: Windows-10-10.0.19045-SP0
+2025-01-14 21:59:11,798 - Connecting to GLOBAL Snowflake domain
+2025-01-14 21:59:11,798 - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-14 21:59:11,799 - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-01-14 21:59:13,153 - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-01-14 21:59:13,488 - Successfully connected to Snowflake.
+2025-01-14 21:59:14,062 - Number of results in first chunk: 0
+2025-01-14 21:59:14,063 - Found 0 tables created before 2025-01-15.
+2025-01-14 21:59:14,065 - closed
+2025-01-14 21:59:14,119 - No async queries seem to be running, deleting session
+2025-01-14 21:59:14,173 - Completed deleting old tables.
+2025-01-14 21:59:56,085 - Snowflake Connector for Python Version: 3.12.4, Python Version: 3.12.3, Platform: Windows-10-10.0.19045-SP0
+2025-01-14 21:59:56,094 - Connecting to GLOBAL Snowflake domain
+2025-01-14 21:59:56,095 - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-14 21:59:56,095 - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-01-14 21:59:58,286 - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-01-14 22:00:03,329 - Successfully connected to Snowflake.
+2025-01-14 22:00:04,024 - Number of results in first chunk: 0
+2025-01-14 22:00:04,028 - Found 0 tables created before 2025-01-15.
+2025-01-14 22:00:04,030 - closed
+2025-01-14 22:00:04,100 - No async queries seem to be running, deleting session
+2025-01-14 22:00:04,172 - Completed deleting old tables.
