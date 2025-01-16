@@ -49,3 +49,22 @@
 2025-01-14 22:00:04,030 - closed
 2025-01-14 22:00:04,100 - No async queries seem to be running, deleting session
 2025-01-14 22:00:04,172 - Completed deleting old tables.
+2025-01-15 22:34:59,181 - Snowflake Connector for Python Version: 3.12.4, Python Version: 3.12.3, Platform: Windows-10-10.0.19045-SP0
+2025-01-15 22:34:59,182 - Connecting to GLOBAL Snowflake domain
+2025-01-15 22:34:59,182 - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-15 22:34:59,182 - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-01-15 22:35:00,129 - THIS CONNECTION IS IN INSECURE MODE. IT MEANS THE CERTIFICATE WILL BE VALIDATED BUT THE CERTIFICATE REVOCATION STATUS WILL NOT BE CHECKED.
+2025-01-15 22:35:00,438 - Successfully connected to Snowflake.
+2025-01-15 22:35:01,148 - Number of results in first chunk: 4
+2025-01-15 22:35:01,149 - Found 4 tables created before 2025-01-15.
+2025-01-15 22:35:01,269 - Number of results in first chunk: 1
+2025-01-15 22:35:01,270 - Successfully deleted table: BUSINESSSURVEYOPERATION
+2025-01-15 22:35:01,391 - Number of results in first chunk: 1
+2025-01-15 22:35:01,391 - Successfully deleted table: ANNUALENTERPRISES
+2025-01-15 22:35:01,518 - Number of results in first chunk: 1
+2025-01-15 22:35:01,519 - Successfully deleted table: BIGMARKETSALES
+2025-01-15 22:35:01,640 - Number of results in first chunk: 1
+2025-01-15 22:35:01,641 - Successfully deleted table: HOUSEHOLDLIVINGCOST
+2025-01-15 22:35:01,641 - closed
+2025-01-15 22:35:01,681 - No async queries seem to be running, deleting session
+2025-01-15 22:35:01,739 - Completed deleting old tables.
